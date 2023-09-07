@@ -1,1 +1,1 @@
-<img src="https://github.com/Carp300/assets/blob/master/infinitemoneyglitchv1.png?raw=true">
+<img src="https://github.com/Carp300/Carp300/blob/main/assets/infinitemoneyglitchv1.png">
